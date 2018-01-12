@@ -1,0 +1,8 @@
+{
+  "name": "iopay",
+  "app_id": "cfa69659",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
